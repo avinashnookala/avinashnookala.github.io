@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0dcade8.css",
+    "main.js": "/static/js/main.3b7ec100.js",
+    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "static/media/cybersecuritytools.png": "/static/media/cybersecuritytools.7d86cd0c7d5e4ab1b335.png",
+    "static/media/todoapi.png": "/static/media/todoapi.46110a796ee706f13c7d.png",
+    "static/media/resturant.png": "/static/media/resturant.9c853c31f6b421c4c476.png",
+    "static/media/resume_page_1.jpg": "/static/media/resume_page_1.28f828ccf0689606018f.jpg",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Avinash_Nookala_Resume.pdf": "/static/media/Avinash_Nookala_Resume.aff115eb83f6d33492f7.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/static/media/logo.c07f262f760e1107490f.png",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.d0dcade8.css.map": "/static/css/main.d0dcade8.css.map",
+    "main.3b7ec100.js.map": "/static/js/main.3b7ec100.js.map",
+    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0dcade8.css",
+    "static/js/main.3b7ec100.js"
+  ]
+}
