@@ -1,6 +1,6 @@
 <h2 align="center">
   My Portfolio Website<br/>
-  <a href="avinashnookala.github.io" target="_blank">avinashnookala</a><br/>
+  <a href=avinashnookala.github.io>avinashnookala</a><br/>
   On Going Build, as i learn
 </h2>
 <br/>
