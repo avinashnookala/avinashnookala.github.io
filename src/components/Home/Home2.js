@@ -40,7 +40,7 @@ function Home2() {
               <br />
 
               To learn more about my skills, interests, and background, please 
-              visit the <a href="/about">About Me</a> section. 
+              visit the About Me section. 
             </p>  
           </Col>
           <Col md={4} className="myAvtar">

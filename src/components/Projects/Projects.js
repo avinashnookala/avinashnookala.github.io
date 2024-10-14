@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import todoapi from "../../Assets/Projects/todoapi.png";
 import resturant from "../../Assets/Projects/resturant.png";
 import cybersecuritytools from "../../Assets/Projects/cybersecuritytools.png";
+import cambrian from "../../Assets/Projects/cambrianeats.png";
 
 function Projects() {
   return (
@@ -40,7 +41,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              // Update imgPath with relevant image
+              imgPath={cambrian}
               isBlog={false}
               title="Cambrian Eats App"
               description="Developed a cloud-based food ordering app using Microsoft PowerApps, allowing users to order food on campus."
