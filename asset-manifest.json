@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.f9594aa2.css",
-    "main.js": "/static/js/main.7ab67c2c.js",
+    "main.js": "/static/js/main.61bbdc73.js",
     "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
     "static/media/cybersecuritytools.png": "/static/media/cybersecuritytools.7d86cd0c7d5e4ab1b335.png",
     "static/media/todoapi.png": "/static/media/todoapi.46110a796ee706f13c7d.png",
     "static/media/cambrianeats.png": "/static/media/cambrianeats.82ed607b9166aa33e63d.png",
     "static/media/resturant.png": "/static/media/resturant.9c853c31f6b421c4c476.png",
+    "static/media/avatar.png": "/static/media/avatar.f7f18c48d045db821501.png",
     "static/media/resume_page_1.jpg": "/static/media/resume_page_1.28f828ccf0689606018f.jpg",
     "static/media/LPU_logo.png": "/static/media/LPU_logo.bd8c514ad72fd8326d82.png",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
@@ -17,15 +18,14 @@
     "static/media/UCO.png": "/static/media/UCO.0996badcdfeb29891510.png",
     "static/media/LOGO-_RELAMCO.png": "/static/media/LOGO-_RELAMCO.ced90b5eac1004d75d76.png",
     "static/media/logo.png": "/static/media/logo.c07f262f760e1107490f.png",
-    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.f9594aa2.css.map": "/static/css/main.f9594aa2.css.map",
-    "main.7ab67c2c.js.map": "/static/js/main.7ab67c2c.js.map",
+    "main.61bbdc73.js.map": "/static/js/main.61bbdc73.js.map",
     "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9594aa2.css",
-    "static/js/main.7ab67c2c.js"
+    "static/js/main.61bbdc73.js"
   ]
 }
