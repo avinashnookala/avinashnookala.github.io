@@ -45,6 +45,7 @@ function Projects() {
               isBlog={false}
               title="Cambrian Eats App"
               description="Developed a cloud-based food ordering app using Microsoft PowerApps, allowing users to order food on campus."
+              ghLink="https://apps.powerapps.com/play/e/0dd4687a-8b46-e3ff-bb60-fa4765ad111c/a/c2253ab9-6ba3-4ce9-99e6-b5c06281fd69?tenantId=a6a78d6c-799a-43ba-821a-d5a1f5f0f767&hint=ba599b90-7fa9-4c99-9b79-e7c65e07e9f5&source=sharebutton&sourcetime=1729004721576"
             />
           </Col>
 
