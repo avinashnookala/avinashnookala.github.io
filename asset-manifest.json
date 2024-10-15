@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f9594aa2.css",
-    "main.js": "/static/js/main.61bbdc73.js",
+    "main.js": "/static/js/main.f0644cd0.js",
     "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
     "static/media/cybersecuritytools.png": "/static/media/cybersecuritytools.7d86cd0c7d5e4ab1b335.png",
     "static/media/todoapi.png": "/static/media/todoapi.46110a796ee706f13c7d.png",
@@ -21,11 +21,11 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.f9594aa2.css.map": "/static/css/main.f9594aa2.css.map",
-    "main.61bbdc73.js.map": "/static/js/main.61bbdc73.js.map",
+    "main.f0644cd0.js.map": "/static/js/main.f0644cd0.js.map",
     "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9594aa2.css",
-    "static/js/main.61bbdc73.js"
+    "static/js/main.f0644cd0.js"
   ]
 }
