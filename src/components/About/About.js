@@ -1,11 +1,17 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
+import ExperienceCard from "./ExperienceCard";
 //import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
+import Campbellsville  from "../../Assets/experience/campbellsville-university.png";
+import Cambrian  from "../../Assets/experience/cambrian.png";
+import Lpu  from "../../Assets/experience/LPU_logo.png";
+import UCO  from "../../Assets/experience/UCO.png";
+import Relamco  from "../../Assets/experience/LOGO-_RELAMCO.png";
 
 function About() {
   return (
@@ -36,33 +42,63 @@ function About() {
         </Row>
         {/* Education Section */}
         <h2>Education</h2>
-        <ul style={{ listStyleType: 'none' }}>
-          <li>
-            <span className="purple">Master's in Information Technology Management</span> Campbellsville University
-          </li>
-          <li>
-            <span className="purple">Graduate Certificate in Mobile Application Development</span> Cambrian College
-          </li>
-          <li>
-            <span className="purple">Graduate Certificate in Cybersecurity</span> Cambrian College
-          </li>
-          <li>
-            <span className="purple">Bachelor's in Mechanical Engineering</span> Lovely Professional University
-          </li>
-        </ul>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={3} className="experience-card">
+              <ExperienceCard
+                imgPath={Cambrian}
+                title="Mobile Application Development - 2024"
+                description="Cambrian College: Developed skills in designing and building multi-platform mobile applications using modern software development techniques and cloud technologies."
+                link="https://cambriancollege.ca/programs/mobile-application-development"
+              />
+          </Col>
+          <Col md={3} className="experience-card">
+              <ExperienceCard
+                imgPath={Campbellsville}
+                title="Master's in Information Technology Management -2024"
+                description="Campbellsville University: Covered a wide range of IT management topics, including management information systems, team management, project management, information systems security, and emerging technologies."
+                link="https://www.campbellsville.edu/"
+              />
+          </Col>
+          <Col md={3} className="experience-card">
+              <ExperienceCard
+                imgPath={Cambrian}
+                title="Cybersecurity - 2023"
+                description="Cambrian College: Focused on protecting information systems from cyberattacks, covering topics like infrastructure security, risk management, and legal/ethical aspects."
+                link="https://cambriancollege.ca/programs/cybersecurity"
+              />
+          </Col>
+          <Col md={3} className="experience-card">
+              <ExperienceCard
+                imgPath={Lpu}
+                title="Mechanical Engineering -2014"
+                description="Lovely Professional University: Gained a strong foundation in design, materials, manufacturing, automation, and robotics through a multidisciplinary curriculum."
+                link="https://www.lpu.in/"
+              />
+          </Col>
+        </Row>
         <br />
         <br />
 
         {/* Work Experience Section */}
         <h2>Work Experience</h2>
-        <ul style={{ listStyleType: 'none' }}>
-          <li>
-            <span className="purple">IT Intern</span> Relamco
-          </li>
-          <li>
-            <span className="purple">Assistant Branch Manager/Customer Relationship Manager</span> UCO Bank, Nagpur, India
-          </li>
-        </ul>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={3} className="experience-card">
+              <ExperienceCard
+                imgPath={Relamco}
+                title="Project Coordinator(Web Developer) Internship - Present"
+                description="Redesigned company website, implemented Google Workspace tools, created marketing materials, and recommended mobile app development to enhance training accessibility and user engagement."
+                link="https://relamco.com/"
+              />
+          </Col>
+          <Col md={3} className="experience-card">
+              <ExperienceCard
+                imgPath={UCO}
+                title="Assistant Branch Manager 2020 - 2023"
+                description="Managed branch operations, led and supported the branch team, developed customer retention strategies, and provided technical support, resulting in increased customer base, improved customer retention, and enhanced branch profitability"
+                link="https://www.ucobank.com/en/"
+              />
+          </Col>
+        </Row>
         <br />
         <br />
         <h1 className="project-heading">
